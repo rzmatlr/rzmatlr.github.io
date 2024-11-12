@@ -1,2 +1,1 @@
-Pages Test
-Just to test my page
+Pages Test\nJust to test my page
